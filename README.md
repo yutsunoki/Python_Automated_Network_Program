@@ -2,4 +2,4 @@
 
 This is my practical about the automated network program with python.
 
-![](img/planing_map.png)
+![planing_map](img/planing_map.png)
