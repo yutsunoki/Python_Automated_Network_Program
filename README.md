@@ -1,6 +1,8 @@
 # Python_Automated_Network_Program
 
 This is my practical about the automated network program with python.
+## The plan of the network
+![planning_map](img/planning_map.png)
 
 ## How to expose ip for eve-ng emulated device
 ```
@@ -22,5 +24,3 @@ root@eve-ng:~# ip route
 192.168.0.0/24 dev pnet0 proto kernel scope link src 192.168.0.8
 192.168.0.0/16 dev pnet0 proto kernel scope link src 192.168.0.8
 ```
-
-![planing_map](img/planing_map.png)
