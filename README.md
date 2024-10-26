@@ -1,7 +1,7 @@
 # Python_Automated_Network_Program
 
 This is my practical about the automated network program with python.
-## The plan of the network
+## The map of the network
 ![planning_map](img/planning_map.png)
 
 ## How to expose ip for eve-ng emulated device
