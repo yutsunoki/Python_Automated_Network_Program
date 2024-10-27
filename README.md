@@ -4,7 +4,9 @@ This is my practical about the automated network program with python.
 The goal is make all the computer online and separate the network from local and DMZ. Use Py script to auto config to the 3 network device.
 
 ## The map of network
-The ssh and Py script is execute form from the `localhost` device
+`local computer` is my laptop.
+The ssh and Py script is execute form from the `local computer` to achive script load to the configuration to network devices.
+
 
 ![planning_map](img/planning_map.png)
 
