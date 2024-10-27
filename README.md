@@ -41,3 +41,6 @@ root@eve-ng:~# ip route
 192.168.0.0/24 dev pnet0 proto kernel scope link src 192.168.0.8
 192.168.0.0/16 dev pnet0 proto kernel scope link src 192.168.0.8
 ```
+## Load example
+
+![](img/py_script_exec.png =100x23)
