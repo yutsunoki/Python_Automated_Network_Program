@@ -4,8 +4,11 @@ This is my practical about the automated network program with python.
 The goal is make all the computer online and separate the network from LAN and DMZ. Use Py script to auto config to the 3 network device.
 
 ## How to use
-1. Copy the command from config.ctb to the correspond network devices.
-2. Excute the autoload.py with python3.
+1. Install eve-ng from VM or physical computer.
+2. Setup eve-ng. Example import cisco image, IP route setting etc...
+3. Import `_Exports_unetlab_export-20230613-144554.zip` to eve-ng.
+4. Copy the command from config.ctb to the correspond network devices.
+5. Excute the autoload.py with python3.
 
 ## The map of network
 `local computer` is my laptop.
