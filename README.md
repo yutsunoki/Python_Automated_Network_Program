@@ -1,8 +1,10 @@
 # Python_Automated_Network_Program
 
 This is my practical about the automated network program with python.
-## The map of network
 The goal is make all the computer online and separate the network from local and DMZ. Use Py script to auto config to the 3 network device.
+
+## The map of network
+
 
 ![planning_map](img/planning_map.png)
 
