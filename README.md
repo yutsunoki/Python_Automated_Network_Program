@@ -2,7 +2,7 @@
 
 This is my practical about the automated network program with python.
 ## The map of network
-The goal is make all the computer online and separate the network from local and DMZ.
+The goal is make all the computer online and separate the network from local and DMZ. Use Py script to auto config to the network device.
 
 ![planning_map](img/planning_map.png)
 
