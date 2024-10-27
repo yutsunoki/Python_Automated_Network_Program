@@ -43,4 +43,6 @@ root@eve-ng:~# ip route
 ```
 ## Load example
 
-<img src=img/py_script_exec.png height=200 with=auto/>
+![py_script_exec](img/py_script_exec.png)
+![py_script_exec_start](img/py_script_exec_start.png)
+![py_script_exec_done](img/py_script_exec_done.png)
