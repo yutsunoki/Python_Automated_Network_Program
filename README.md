@@ -3,6 +3,10 @@
 This is my practical about the automated network program with python.
 The goal is make all the computer online and separate the network from LAN and DMZ. Use Py script to auto config to the 3 network device.
 
+## How to use
+1. Copy the command from config.ctb to the correspond network devices.
+2. Excute the autoload.py with python3.
+
 ## The map of network
 `local computer` is my laptop.
 The ssh and Py script is execute form from the `local computer` to achieving script to load the configuration to network devices from LAN.
