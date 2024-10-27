@@ -1,12 +1,11 @@
 # Python_Automated_Network_Program
 
 This is my practical about the automated network program with python.
-The goal is make all the computer online and separate the network from local and DMZ. Use Py script to auto config to the 3 network device.
+The goal is make all the computer online and separate the network from LAN and DMZ. Use Py script to auto config to the 3 network device.
 
 ## The map of network
 `local computer` is my laptop.
-The ssh and Py script is execute form from the `local computer` to achive script load to the configuration to network devices.
-
+The ssh and Py script is execute form from the `local computer` to achieving script to load the configuration to network devices from LAN.
 
 ![planning_map](img/planning_map.png)
 
