@@ -2,10 +2,12 @@
 
 This is my practical about the automated network program with python.
 ## The map of network
+
 ![planning_map](img/planning_map.png)
 
 ## DMZ server enable service
 I run on 8G RAM old PC, so network device is not backup to the local server because my PC is non enough resource to emulate other server on eve-ng.
+
 ![DMZ_server](img/linux_enable_services.png)
 
 ## How to expose ip for eve-ng emulated device
